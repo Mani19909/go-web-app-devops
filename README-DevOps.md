@@ -11,10 +11,7 @@ DevOps practices include the following:
 
 ## Architecture Diagram
 
-<p align="center">
-  <img src="images/devops-architecture.png" width="1000">
-</p>
-
+![DevOps Architecture](images/image-1.png)
 
 ## Creating Dockerfile (Multi-stage build)
 
